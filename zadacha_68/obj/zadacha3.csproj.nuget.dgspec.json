@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/aleksejparasnenko/Desktop/C#_seminaru/home_work_C#_last/zadacha68/zadacha2.csproj": {}
+    "/Users/aleksejparasnenko/Desktop/C#_seminaru/home_work_C#_last/zadacha_68/zadacha3.csproj": {}
   },
   "projects": {
-    "/Users/aleksejparasnenko/Desktop/C#_seminaru/home_work_C#_last/zadacha68/zadacha2.csproj": {
+    "/Users/aleksejparasnenko/Desktop/C#_seminaru/home_work_C#_last/zadacha_68/zadacha3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/aleksejparasnenko/Desktop/C#_seminaru/home_work_C#_last/zadacha68/zadacha2.csproj",
-        "projectName": "zadacha2",
-        "projectPath": "/Users/aleksejparasnenko/Desktop/C#_seminaru/home_work_C#_last/zadacha68/zadacha2.csproj",
+        "projectUniqueName": "/Users/aleksejparasnenko/Desktop/C#_seminaru/home_work_C#_last/zadacha_68/zadacha3.csproj",
+        "projectName": "zadacha3",
+        "projectPath": "/Users/aleksejparasnenko/Desktop/C#_seminaru/home_work_C#_last/zadacha_68/zadacha3.csproj",
         "packagesPath": "/Users/aleksejparasnenko/.nuget/packages/",
-        "outputPath": "/Users/aleksejparasnenko/Desktop/C#_seminaru/home_work_C#_last/zadacha68/obj/",
+        "outputPath": "/Users/aleksejparasnenko/Desktop/C#_seminaru/home_work_C#_last/zadacha_68/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/aleksejparasnenko/.nuget/NuGet/NuGet.Config"
